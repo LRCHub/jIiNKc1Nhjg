@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Flip",
+  "base_artist": "JIN DOGG",
+  "createdAt": "2026-02-18T12:59:15.725916Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flip Flops",
+      "artist": "Kristian Bush",
+      "has_synced": true,
+      "path": "select/01_Flip_Flops_Kristian_Bush.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Flip Ya Lid",
+      "artist": "Nightmares On Wax",
+      "has_synced": false,
+      "path": "select/02_Flip_Ya_Lid_Nightmares_On_Wax.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Flip Flop Rock (feat. Killer Mike & JAY-Z)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/03_Flip_Flop_Rock_(feat._Killer_Mike_&_JAY-Z)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Flip Flop & Fly (Live)",
+      "artist": "The Blues Brothers",
+      "has_synced": false,
+      "path": "select/04_Flip_Flop_&_Fly_(Live)_The_Blues_Brothers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Flip, Flop & Fly - Live Version",
+      "artist": "The Blues Brothers",
+      "has_synced": false,
+      "path": "select/05_Flip,_Flop_&_Fly_-_Live_Version_The_Blues_Brothers.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Game Over (Flip)",
+      "artist": "Lil' Flip",
+      "has_synced": false,
+      "path": "select/06_Game_Over_(Flip)_Lil'_Flip.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Orange Flip",
+      "artist": "Book Of Love",
+      "has_synced": true,
+      "path": "select/07_Orange_Flip_Book_Of_Love.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Something (Flip & Fill Remix)",
+      "artist": "Lasgo",
+      "has_synced": false,
+      "path": "select/08_Something_(Flip_&_Fill_Remix)_Lasgo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gucci Flip Flops (feat. Lil Yachty)",
+      "artist": "Bhad Bhabie feat. Lil Yachty",
+      "has_synced": true,
+      "path": "select/09_Gucci_Flip_Flops_(feat._Lil_Yachty)_Bhad_Bhabie_feat._Lil_Yachty.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gucci Flip Flops (feat. Lil Yachty)",
+      "artist": "Bhad Bhabie",
+      "has_synced": true,
+      "path": "select/10_Gucci_Flip_Flops_(feat._Lil_Yachty)_Bhad_Bhabie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The World's First Ever Monster Truck Front Flip",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/11_The_World's_First_Ever_Monster_Truck_Front_Flip_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flip U",
+      "artist": "COUCOU CHLOE feat. Sega Bodega",
+      "has_synced": true,
+      "path": "select/12_Flip_U_COUCOU_CHLOE_feat._Sega_Bodega.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "flip u",
+      "artist": "Coucou Chloe",
+      "has_synced": true,
+      "path": "select/13_flip_u_Coucou_Chloe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Like a Pimp (feat. Lil' Flip)",
+      "artist": "David Banner",
+      "has_synced": true,
+      "path": "select/14_Like_a_Pimp_(feat._Lil'_Flip)_David_Banner.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Talk to Me (feat. Lil' Flip)",
+      "artist": "David Banner",
+      "has_synced": false,
+      "path": "select/15_Talk_to_Me_(feat._Lil'_Flip)_David_Banner.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Flip (feat. R-指定)",
+      "artist": "JIN DOGG",
+      "has_synced": false,
+      "path": "select/pl_01_Flip_(feat._R-指定)_JIN_DOGG.txt"
+    }
+  ]
+}
